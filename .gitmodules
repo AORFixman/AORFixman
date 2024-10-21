@@ -1,0 +1,3 @@
+[submodule "AORFixman"]
+	path = AORFixman
+	url = https://github.com/AORFixman/AORFixman.git
